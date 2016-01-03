@@ -1,0 +1,12 @@
+.btn {
+  width: 40px;
+}
+.btn-wide {
+  width: 85px;
+}
+
+.display {
+  width: 160px;
+  margin-left: auto;
+  margin-right: auto;
+}
